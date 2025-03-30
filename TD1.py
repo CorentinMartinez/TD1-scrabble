@@ -1,3 +1,5 @@
+CORENTIN MARTINEZ
+
 ## Exercice 1+2
 
 #On charge le dictionnaire, on crée une fonction qui renvoie un bouléen pour savoir si un mot est faisable ou pas avec notre tirage puis on crée une fonction qui utilise la fonction précédente pour construire le liste des mots possibles puis extrait le mot le plus long que contient cette liste.
